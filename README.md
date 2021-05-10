@@ -10,7 +10,4 @@
 - Computer Network
 - Algorithms and Data Structures
 
-### I am interested in  
-
-
 ![RajGM Github stats](https://github-readme-stats.vercel.app/api?username=RajGM)
