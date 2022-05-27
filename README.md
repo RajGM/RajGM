@@ -3,7 +3,7 @@
 ## I'm, sophomore at University of London and my current skills-set includes: 
 - Full-Stack Web and Mobile developemet
 - IoT and electronics enginerring
-- 4 years of trading experience
+- 5+ years of trading experience
 
 ### Apart from that I have proficiency in:
 - System Design
