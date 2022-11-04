@@ -3,15 +3,11 @@
 ## I'm, sophomore at University of London and my current skills-set includes: 
 - Full-Stack Web and Mobile developemet
 - IoT and electronics engineering
-- 5+ years of trading experience
-
-### Apart from that I have proficiency in:
-- System Design
-- Computer Network
-- Algorithms and Data Structures
+- Trading crypto, equities since 2017
 
 ### Experience
-- Software Engineering Fellow @ THe MLH Fellowship May 2022 - July 2022
+- Linux Foundation Mentorship Program Fellow @ Hyperledger Nov 2022 - Jan 2023
+- Software Engineering Fellow @ The MLH Fellowship May 2022 - July 2022
 - Mentor @ She Code Africa from the organization Layer5  March 2022 - May 2022
 - Software Engineering Intern @ Digital Product School Munich Sept 2021 - Dec 2021
 
