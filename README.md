@@ -3,7 +3,7 @@
 ## I'm, sophomore at University of London and my current skills-set includes: 
 - Full-Stack Web and Mobile developemet
 - IoT and electronics engineering
-- Trading crypto, equities since 2017
+- Trading crypto since 2017
 
 ### Experience
 - Linux Foundation Mentorship Program Fellow @ Hyperledger Nov 2022 - Jan 2023
