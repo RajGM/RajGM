@@ -1,7 +1,7 @@
 # RajGM
 
 ## I'm, sophomore at University of London and my current skills-set includes: 
-- Full-Stack Web and Mobile developemet
+- Full-Stack Web and Mobile development
 - IoT and electronics engineering
 - Trading crypto since 2017
 
