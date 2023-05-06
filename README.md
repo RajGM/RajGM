@@ -1,9 +1,8 @@
 # RajGM
 
-## I'm, sophomore at University of London and my current skills-set includes: 
+## I'm, senior at University of London and my current skills-set includes: 
 - Full-Stack Web and Mobile development
 - IoT and electronics engineering
-- Trading crypto since 2017
 
 ### Experience
 - Linux Foundation Mentorship Program Fellow @ Hyperledger Nov 2022 - Jan 2023
