@@ -11,7 +11,7 @@
 - SWE Fellow @ The MLH Fellowship May 2022 - July 2022
 - SWE @ Digital Product School Munich Sep 2021 - Dec 2021
 
-### Volunteer
+### Volunteering
 - Mentor @ Data Umbrella May 2023 - Current
 - Mentor @ HackYourFuture Feb 2023 - May 2023
 - Campus Ambassador @ XRPL Aug 2022 - Apr 2023
