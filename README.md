@@ -2,7 +2,7 @@
 
 ## I'm, a senior at the University of London and my current skills-set includes: 
 - Full-Stack Web developer
-- Product builder
+- End 2 End Product building
 
 ### Experience
 - Founder @ InfiOpp April 2023 - Current
