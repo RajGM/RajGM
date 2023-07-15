@@ -5,11 +5,11 @@
 - Product builder
 
 ### Experience
-- Founder @ InfiOpp April 2023
+- Founder @ InfiOpp April 2023 - Current
 - Mentor @ The Collab Lab Feb 2023 - Current
 - LFX Fellow @ Hyperledger Nov 2022 - March 2023
 - SWE Fellow @ The MLH Fellowship May 2022 - July 2022
-- Software Engineering @ Digital Product School Munich Sept 2021 - Dec 2021
+- SWE @ Digital Product School Munich Sep 2021 - Dec 2021
 
 ### Volunteer
 - Mentor @ Data Umbrella May 2023 - Current
