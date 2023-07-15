@@ -18,5 +18,4 @@
 - Mentor @ CodePath DotOrg May 2022 - July 2023
 - Mentor @ She Code Africa March 2022 - May 2022
 
-
 ![RajGM Github stats](https://github-readme-stats.vercel.app/api?username=RajGM)
