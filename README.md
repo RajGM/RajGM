@@ -5,7 +5,6 @@
 - End 2 End Product building
 
 ### Experience
-- Founder @ InfiOpp April 2023 - Current
 - Mentor @ The Collab Lab Feb 2023 - Current
 - LFX Fellow @ Hyperledger Nov 2022 - March 2023
 - SWE Fellow @ The MLH Fellowship May 2022 - July 2022
