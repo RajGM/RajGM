@@ -1,6 +1,6 @@
 # RajGM
 
-## I'm, an experienced Machine Learning & Product Engineer: 
+## I'm, an  Machine Learning & Product Engineer: 
 - Product building
 - AI Products
   
